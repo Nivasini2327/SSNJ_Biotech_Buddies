@@ -1,0 +1,2 @@
+# SSJN
+SynaptiX Hackathon Project

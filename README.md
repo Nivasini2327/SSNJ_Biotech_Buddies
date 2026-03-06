@@ -1,2 +1,2 @@
-#SSNJ_Biotech_Buddies
+# SSNJ_Biotech_Buddies
 SynaptiX Hackathon Project
